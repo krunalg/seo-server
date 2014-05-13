@@ -1,0 +1,36 @@
+{
+    "default_txt": {
+        "fb_title": "facebook title",
+        "twitter_title": "twitter title",
+        "gplus_title": "google plus title",
+        "title": "page title",
+        "keywords": "keyword1, keyword2, keyword3",
+        "description": "description"
+    },
+    'module_name1':{
+		"fb_title": "facebook title",
+        "twitter_title": "twitter title",
+        "gplus_title": "google plus title",
+        "title": "page title",
+        "keywords": "keyword1, keyword2, keyword3",
+        "description": "description"
+    },
+    'module_name2':{
+		"fb_title": "facebook title",
+        "twitter_title": "twitter title",
+        "gplus_title": "google plus title",
+        "title": "page title",
+        "keywords": "keyword1, keyword2, keyword3",
+        "description": "description"
+    }
+    //and so on....
+    /*
+	*	mention your modules here. module name is the name of route
+	*   eg. http://url.com/blahbla/module2?key1=1&key2=2
+	*	route = module2 replace module_name with your module name
+	*	key default_txt is must
+    */
+    ......
+    ......
+    ......
+}

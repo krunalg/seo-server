@@ -1,0 +1,25 @@
+{
+  "name": "seoserver",
+  "version": "0.0.1",
+  "main": "lib/seoserver",
+  "bin": {
+    "seoserver": "./bin/seoserver.js"
+  },
+  "dependencies": {
+    "commander": "latest",
+    "forever-monitor": "latest",
+    "express": "latest",
+    "memcached": "latest",
+    "node-logentries": "latest",
+    "jquery": "latest",
+    "underscore": "latest",
+    "mkdirp": "^0.5.0",
+    "path": "^0.4.9"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/moviepilot/seoserver"
+    }
+  ]
+}

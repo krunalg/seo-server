@@ -1,0 +1,10 @@
+{
+    "default_txt": {
+        "fb_title": "facebook title",
+        "twitter_title": "twitter title",
+        "gplus_title": "google plus title",
+        "title": "page title",
+        "keywords": "keyword1, keyword2, keyword3",
+        "description": "description"
+    }
+}
