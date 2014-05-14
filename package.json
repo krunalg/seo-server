@@ -31,6 +31,5 @@
     "phantomjs",
     "nodejs"
   ],
-  "author": "Krunal Goswami",
-  "license": "ISC"
+  "author": "Krunal Goswami"
 }
