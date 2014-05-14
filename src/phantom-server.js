@@ -3,7 +3,7 @@ $ = require('jquery'),
 page = require('webpage').create(),
 fs = require('fs'),
 funcs = require('../lib/functions.js'),
-defaultConfig = require('../src/config');
+defaultConfig = require('../lib/config');
 
 page.viewportSize = { width: 1280, height: 1000};
 
