@@ -17,7 +17,7 @@ Forever [Help](https://www.npmjs.org/package/forever)
 * Start Server <br/>
 <code>forever start src/run-seoserver</code>
 
-* It will start server on default port configured on configurations
+* It will start server on default port configured on configurations <code>lib/config.js</code>
 
 * Test output with
 <code>curl -v http://localhost:3000</code>
