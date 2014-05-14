@@ -2,8 +2,7 @@
 Seo Server is a command line tool a nodejs server that allows Crawlers or Bots to crawl your heavily Javascript built websites. 
 
 ### Getting started
-* Edit configuration file `src/config.coffee.sample` and save it as
-`src/config.coffee`
+* Edit configuration file `src/config.js` file with required parameters.
 * Install npm dependencies <br/>
 <code>npm install</code>
 * Install PhantomJS <br/>
