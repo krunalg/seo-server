@@ -23,6 +23,6 @@ Forever [Help](https://www.npmjs.org/package/forever)
 <code>curl -v http://localhost:3000</code>
 
 ### Credits
-This code is based on a [tutorial by Thomas Davis](http://backbonetutorials.com/seo-for-single-page-apps/) and on https://github.com/apiengine/seoserver
+This code is based on a [tutorial by Thomas Davis](http://backbonetutorials.com/seo-for-single-page-apps/) and on https://github.com/moviepilot/seoserver
 
 
