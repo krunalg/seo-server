@@ -1,7 +1,7 @@
 {
   "name": "seoserver",
   "version": "0.0.1",
-  "main": "lib/seoserver",
+  "main": "src/seoserver",
   "bin": {
     "seoserver": "./bin/seoserver.js"
   },
