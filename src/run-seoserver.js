@@ -1,5 +1,5 @@
-var arguments = process.argv.splice(2);
-var port = arguments[0] !== 'undefined' ? arguments[0] : 10300;
+var config = require("../lib/config");
+var port = process.argv[2] || config.defaultPort;
 Seoserver = require('./seoserver');
 var server = new Seoserver({defaultPort: parseInt(port)});
 server.start();

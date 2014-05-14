@@ -1,4 +1,4 @@
-### Welcome!
+### Welcome
 Seo Server is a command line tool a nodejs server that allows Crawlers or Bots to crawl your heavily Javascript built websites. 
 
 ### Getting started
@@ -7,10 +7,13 @@ Seo Server is a command line tool a nodejs server that allows Crawlers or Bots t
 <code>npm install</code>
 * Install PhantomJS <br/>
 <code>npm install -g phantomjs</code>
-* Start the main process on port 10300 and with default memcached conf:<br/>
-<code>bin/seoserver start -p 10300</code>
+* Install Forever <br/>
+<code>npm install -g forever</code><br/>
+Forever [Help](https://www.npmjs.org/package/forever)
+* Start Server <br/>
+<code>forever start src/run-seoserver</code>
 
-#Guide
+### Guide
 You can start it locally with:
 
 <code>node lib/seoserver.js start</code>

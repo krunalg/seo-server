@@ -1,9 +1,10 @@
-var metaModule = require('../src/meta.js');
-var $ = require('jquery');
-var page = require('webpage').create(),
+var metaModule = require('../lib/meta.js'),
+$ = require('jquery'),
+page = require('webpage').create(),
 fs = require('fs'),
-funcs = require('./functions.js'),
+funcs = require('../lib/functions.js'),
 defaultConfig = require('../src/config');
+
 page.viewportSize = { width: 1280, height: 1000};
 
 var system = require('system');
