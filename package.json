@@ -19,7 +19,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/moviepilot/seoserver"
+      "url": "https://github.com/krunalg/seo-server"
     }
   ]
 }
