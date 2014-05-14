@@ -16,10 +16,21 @@
     "mkdirp": "latest",
     "path": "latest"
   },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/krunalg/seo-server"
-    }
-  ]
+  "description": "Seo Server is a command line tool a nodejs server that allows Crawlers or Bots to crawl your heavily Javascript built websites.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krunalg/seo-server"
+  },
+  "bugs": {
+    "url": "https://github.com/krunalg/seo-server/issues"
+  },
+  "homepage": "https://github.com/krunalg/seo-server",
+  "keywords": [
+    "seo-server",
+    "seo",
+    "phantomjs",
+    "nodejs"
+  ],
+  "author": "Krunal Goswami",
+  "license": "ISC"
 }
