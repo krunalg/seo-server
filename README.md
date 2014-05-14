@@ -19,7 +19,7 @@ Forever [Help](https://www.npmjs.org/package/forever)
 
 * It will start server on default port configured on configurations
 
-*Test output with:
+* Test output with
 <code>curl -v http://localhost:3000</code>
 
 ### Credits
