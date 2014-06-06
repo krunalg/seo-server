@@ -6,15 +6,15 @@
     "seoserver": "./bin/seoserver.js"
   },
   "dependencies": {
-    "commander": "latest",
-    "forever-monitor": "latest",
+    "commander": "~1.0.2",
+    "forever-monitor": "~1.1.0",
     "express": "latest",
-    "memcached": "latest",
-    "node-logentries": "latest",
-    "jquery": "latest",
-    "underscore": "latest",
-    "mkdirp": "latest",
-    "path": "latest"
+    "memcached": "0.1.5",
+    "node-logentries": "0.0.2",
+    "jquery": "1.8.3",
+    "underscore": "1.4.4",
+    "mkdirp": "^0.5.0",
+    "path": "^0.4.9"
   },
   "description": "Seo Server is a command line tool a nodejs server that allows Crawlers or Bots to crawl your heavily Javascript built websites.",
   "repository": {
